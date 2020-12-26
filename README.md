@@ -7,7 +7,7 @@ So, CNCF lanscape are my interests.
 
 ## Seaking for 2020
 Learn new techs.\
-Learn new languages.\
+Learn new programming languages.\
 Stay at home.\
 Stay healthy.\
 Stay safe.
