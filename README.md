@@ -14,4 +14,5 @@ Stay safe.
 
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Container related technology learn resources](https://medium.com/@c0rehe110/container-related-technology-learn-resources-3b83b7b71629?source=rss-7b02f2a155a2------2)
 <!-- BLOG-POST-LIST:END -->
